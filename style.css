@@ -4,11 +4,9 @@ body {
   max-width: 90%;
   margin: auto;
   background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
-  background-image: url("./background.jpg");
-  background-repeat: no-repeat;
+  background-image: url("./21.png");
   background-position: bottom, right;
-  background-size: cover;
-  color: DarkGray;
+  color: #696969;
 }
 
 quote {
@@ -22,7 +20,7 @@ margin-top: 80px;
 margin-bottom: 80px;
 font-style: italic;
 font-size: 160%;
-background-color: Gray;
+background-color: DarkGray;
 
 }
 
